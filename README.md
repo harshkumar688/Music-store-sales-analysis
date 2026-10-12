@@ -13,7 +13,7 @@ A data analytics project exploring music store sales, customer behavior, geograp
 - Genre-wise revenue distribution and key business insights.
 
 ### 2. Customer & Geographic Analysis
-![Customer and Geographic Analysis](dashboards/customer-geographic-analysis.png)
+![Customer and Geographic Analysis](dashboard2.jpeg)
 
 - Customer distribution by country and age group.
 - City-wise customer analysis and genre preferences.
