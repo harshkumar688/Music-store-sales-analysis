@@ -20,7 +20,7 @@ A data analytics project exploring music store sales, customer behavior, geograp
 - Top customers by spending.
 
 ### 3. Music & Artist Analysis
-![Music and Artist Analysis](dashboards/music-artist-analysis.png)
+![Music and Artist Analysis](dashboard3.jpeg)
 
 - Genre-wise revenue and track distribution.
 - Top artists by revenue and number of tracks.
@@ -45,8 +45,4 @@ music-store-sales-analysis/
 ├── README.md
 ├── dashboards/
 ├── data/
-└── dashboard-file/
 ```
-
-## Disclaimer
-This project is intended for educational and portfolio purposes. Verify all reported figures against the original dataset before using them for business decisions.
