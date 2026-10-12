@@ -6,7 +6,7 @@ A data analytics project exploring music store sales, customer behavior, geograp
 ## Dashboards
 
 ### 1. Executive Overview
-![Executive Overview](dashboards/executive-overview.png)
+![Executive Overview](dashboards/executive-overview.png) 
 
 - Revenue, invoices, customers, tracks, and countries served.
 - Revenue by country and customer city.
